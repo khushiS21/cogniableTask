@@ -1,0 +1,184 @@
+
+ul {
+    list-style: none;
+    
+   }
+
+
+   .App{
+       background-color: rgba(235, 248, 255, 0.747);
+   }
+   li{
+       background-color:rgb(255, 255, 255) ;
+   } 
+   .top{
+       margin-left: 20px;
+   }
+.person-detail img{
+    height: 215px;
+    width: 215px;
+}
+.person-creds{
+    margin-left: 20px;
+}
+.person-detail{
+    display: flex;
+    }
+
+.left-container{
+    margin-left: 20px;
+   width: 60%;
+    }
+
+    .records-head{
+        margin-left: 30px;
+    }
+.basis{
+    display: flex;
+    background-color:rgb(255, 255, 255) ;
+    
+    
+    
+}
+.listTwo{
+    margin-left: 92px;
+    min-width: 400px;
+    margin-top: 2px;
+    text-align: right;
+    margin-right: 0px;
+
+    
+}
+.listOne{
+    margin-left: -6px;
+    min-width: 170px;
+    margin-top: 7px;
+
+} 
+.listOne li p{
+    margin-left: 10px;
+}
+.listTwo li{
+    margin-top: 2px;
+   
+    
+}
+.fa-circle{
+    color: rgb(33, 201, 11);
+}
+
+.top-button button{  
+     margin-left: 30px; 
+    border-radius: 10px; 
+    border-style: 0.5px solid rgb(255, 255, 255); 
+    background-color:rgb(231, 231, 231); 
+    border-style: none;
+    margin-top: 10px; 
+    
+    
+}
+.basis ul li{
+    margin-bottom: 0px;
+    
+} 
+.records{
+    background-color: rgb(255, 255, 255);
+}   
+.guardian-info{
+    background-color: rgb(255, 255, 255);
+ margin-top: -4px; }  
+     
+    
+
+.guardian-info li{
+        display: flex;
+        margin-top: -4px;
+        margin-left: -10px;
+    }
+
+.main {
+    display: flex;
+    
+}
+
+.listOne li{
+    display: flex;
+    align-items: baseline;
+} 
+.top-right{
+    display: flex;
+}
+.genral-info-container{
+    display: flex; 
+    margin-right: 20px;
+}
+
+.staff {
+    
+    background-color:rgb(255, 255, 255);
+    width: 50%;
+    display: flex;
+    
+} 
+.document , .insurance{
+display: flex;
+}
+.right-container{
+    width: 45%;
+} 
+.top-right button{ 
+    width: 100px;
+    height: 30px;
+     margin-left: 50px;
+     border-style: none  ;
+     border-radius: 12px;
+
+}
+.top-right{
+     margin-left: 200px;
+}
+.genral-info-container{
+    background-color: rgb(255, 255, 255) ;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-left: 100px;
+}
+
+
+.genralListTwo {
+    text-align: right;
+    margin-left: 50px;
+    margin-right: 40px;
+}
+
+.genral-info-container ul{
+margin-left: 3px;
+margin-top: 7px;
+
+}
+.genralListOne{
+        margin-left:10px;
+        margin-right: 20px;
+ }
+
+ .genralListOne li p{
+     margin-top: -5px;
+     min-width: 180px;
+ } 
+
+
+ .genralListTwo li p{
+    margin-top: -5px;
+    min-width: 180px;
+}  
+.staffListOne{
+    margin-left: -60px;
+}
+.staff{
+    align-items: end;
+    margin-left: 282px;
+
+}
+
+
+    
